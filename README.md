@@ -1,4 +1,11 @@
-### Hi there 👋
+## Sobre mi
+
+- 📲 Mobile developer
+- 🎥 
+- ✏️ 
+- 📗 
+- 🧑‍🏫 
+<br>
 
 <!--
 **duende23/duende23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
